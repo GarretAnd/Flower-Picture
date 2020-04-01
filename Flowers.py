@@ -77,7 +77,7 @@ def text():
     set_stroke_color(1, 1, 1)
     draw_text('Roses are Red,', 10, 325)
     draw_text('Violets are Blue,', 10, 350)
-    draw_text('Pink is and Great Color too!', 10, 375)
+    draw_text('Pink is a Great Color too!', 10, 375)
 
 
 def draw():  # Draws picture by calling various functions
