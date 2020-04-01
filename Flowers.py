@@ -80,7 +80,7 @@ def text():
     draw_text('Pink is and Great Color too!', 10, 375)
 
 
-def draw():  # Draws picture by calling various functions 
+def draw():  # Draws picture by calling various functions
     draw_background()
     stem_maker()
     flower_maker()
