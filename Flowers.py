@@ -75,9 +75,9 @@ def clouds():
 def text():
     # Writes in bottom corner
     set_stroke_color(1, 1, 1)
-    draw_text('Roses are Red,', 10, 325)
-    draw_text('Violets are Blue,', 10, 350)
-    draw_text('Pink is a Great Color too!', 10, 375)
+    draw_text('Jordan Sanz,', 10, 325)
+    draw_text('Congrats on choosing the best major,', 10, 350)
+    draw_text('It makes sense, because you\'re the best guy!', 10, 375)
 
 
 def draw():  # Draws picture by calling various functions
